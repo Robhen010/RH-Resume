@@ -1,0 +1,17 @@
+.nav {
+      font-family: 'Merriweather','Palatino',serif;
+    line-height: 2;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: rgba(2,2,2,0.2);
+    color: #000;
+}
+.navbar-brand {
+        margin: 0;
+    background-image: url("/assets/images/favicon.ico");
+    background-repeat: no-repeat;
+    /*background-size: contain;*/
+    padding-left: 50px;
+    padding-top: 6px;
+        margin-top: 10px;
+    margin-left: 10px;
+}
